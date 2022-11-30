@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # service
 gem 'activerecord', "=3.0.3"
 gem 'sqlite3', "=0.1.1"
-gem 'sinatra', "=1.1.0"
+gem 'sinatra', "2.2.3"
 
 # client
 gem 'json', '=1.4.6'
